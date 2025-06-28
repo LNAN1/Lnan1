@@ -3,3 +3,8 @@ page-top-title: Nan Liao
 top-section-bg-text: Geography 
 home-subtitle: Nan Liao&ensp;|&ensp;廖楠
 copyright-text: '&copy; Nan Liao 2022-2025. All Rights Reserved.'
+menu:
+  - title: Research Project
+    url: /contents/research_project.md
+  - title: CV
+    url: /contents/cv.md
