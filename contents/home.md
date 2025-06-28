@@ -4,7 +4,7 @@ She is currently a geography teacher at the SZTU Affiliated High School, China. 
 
 #### Email
 
-e0792353\@u.nus.edu
+<e0792353@u.nus.edu>
 
 #### Education
 

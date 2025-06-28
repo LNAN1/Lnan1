@@ -2,5 +2,3 @@
 
 *   Huang Yanru, Zheng Yuping & Liao Nan. (2020). Research on the Application of Double Evaluation Based on the Background of Territorial Space Planning—— Take the Ecological Suitability Evaluation of Panyu District, Guangzhou as an Example. Modern Information Technology (11), 121-125.
 
-
-
