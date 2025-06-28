@@ -1,13 +1,14 @@
-- National Scholarship of Graduate Student, 2024.
+*   Excellent Examiners of SZTU Affiliated High School | July. 2023
 
-- First-prize Scholarship of CUMT, 2024.
+*   Scholarship for Comprehensive Performance | May. 2021
 
-- First-prize Scholarship of CUMT, 2023.
+*   Scholarship for Comprehensive Performance | May. 2020
 
-- Freshman Scholarship of CUMT, 2022.
+*   Certificate of Completion of National Undergraduate Innovation and Entrepreneurship Training Program | Jul. 2019
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+*   Silver Medal in Rural Volunteer Services of 2019 Social Practice Project | Sep. 2019
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+*   Outstanding Student Cadre | Sep. 2019
 
-- First-prize Scholarship of CUMT, 2019.
+*   Excellence Award in Urban and Rural Planning Skills Competition of the SCNU 9th Geographical Science Professional Skills Competition | May. 2019
+
