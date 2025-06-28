@@ -46,6 +46,10 @@ window.addEventListener('DOMContentLoaded', event => {
             // Generate navigation menu
             if (yml.menu) {
                 const navList = document.querySelector('#navbarResponsive ul');
+                // Clear existing menu items except HOME, PUBLICATIONS, AWARDS
+                while (navList.children.length > 3) {
+                    navList.removeChild(navList.lastChild);
+                }
                 yml.menu.forEach(item => {
                     const li = document.createElement('li');
                     li.className = 'nav-item';
