@@ -41,26 +41,8 @@ window.addEventListener('DOMContentLoaded', event => {
                 } catch {
                     console.log("Unknown id and value: " + key + "," + yml[key].toString())
                 }
-            });
 
-            // Generate navigation menu
-            if (yml.menu) {
-                const navList = document.querySelector('#navbarResponsive ul');
-                // Clear existing menu items except HOME, PUBLICATIONS, AWARDS
-                while (navList.children.length > 3) {
-                    navList.removeChild(navList.lastChild);
-                }
-                yml.menu.forEach(item => {
-                    const li = document.createElement('li');
-                    li.className = 'nav-item';
-                    const a = document.createElement('a');
-                    a.className = 'nav-link me-lg-3';
-                    a.href = item.url;
-                    a.textContent = item.title;
-                    li.appendChild(a);
-                    navList.appendChild(li);
-                });
-            }
+            })
         })
         .catch(error => console.log(error));
 
@@ -80,4 +62,4 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
-});
+}); 
