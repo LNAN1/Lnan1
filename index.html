@@ -204,6 +204,19 @@
             .catch(error => {
                 console.error('加载 research project.md 文件出错:', error);
             });
+
+        // 添加加载 home.md 文件内容的逻辑
+        fetch('contents/home.md')
+            .then(response => response.text())
+            .then(text => {
+                // 使用 marked 库将 Markdown 转换为 HTML
+                const htmlContent = marked.parse(text);
+                // 将转换后的 HTML 内容插入到 home-md 元素中
+                document.getElementById('home-md').innerHTML = htmlContent;
+            })
+            .catch(error => {
+                console.error('加载 home.md 文件出错:', error);
+            });
     </script>
 </body>
 </html>
