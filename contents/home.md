@@ -22,4 +22,4 @@ Spatial justice, Urban resilience
 
 #### Research Skills
 
-Skilled in ArcGIS, Python, Microsoft Office and Latex software, and well-versed in the application of common AI technologies.
+Skilled in ArcGIS, Python, Microsoft Office and Latex, and well-versed in the application of common AI technologies.
