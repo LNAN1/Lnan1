@@ -12,8 +12,6 @@ She is currently a geography teacher at the SZTU Affiliated High School, China. 
 
     MSc. in Applied Geographic Information Systems (GPA: 4.4/5.0)
 
-
-
 *   South China Normal University (Project 211), China | Sep 2017-Jul 2021
 
     BSc. in Human Geography and Urban-Rural Planning (GPA: 3.64/4.0)
@@ -21,3 +19,7 @@ She is currently a geography teacher at the SZTU Affiliated High School, China. 
 #### Research Interests
 
 Spatial justice, Urban resilience
+
+#### Research Skills
+
+Skilled in ArcGIS, Python, Microsoft Office and Latex software, and well-versed in the application of common AI technologies.
