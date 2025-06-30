@@ -4,7 +4,7 @@ She is currently a geography teacher at the SZTU Affiliated High School, China. 
 
 #### Connection
 
-📧[email](e0792353@u.nus.edu)
+📧<e0792353@u.nus.edu>
 
 📑[Google scholar](https://scholar.google.com/citations?hl=zh-CN\&user=0qKezGQAAAAJ)
 
