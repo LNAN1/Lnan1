@@ -2,9 +2,11 @@
 
 She is currently a geography teacher at the SZTU Affiliated High School, China. After graduating with a master's degree in Applied GIS from the National University of Singapore, she has been engaged in geography teaching and continues to be concerned about issues such as spatial justice and urban resilience.
 
-#### Email
+#### Connection
 
-<e0792353@u.nus.edu>
+📧[email](e0792353@u.nus.edu)
+
+📑[Google scholar](https://scholar.google.com/citations?hl=zh-CN\&user=0qKezGQAAAAJ)
 
 #### Education
 
