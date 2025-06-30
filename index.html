@@ -192,17 +192,17 @@
     </footer>
 
     <script type="text/javascript">
-        // 加载 research project.md 文件内容
-        fetch('contents/research project.md')
+        // 加载 research projects.md 文件内容
+        fetch('contents/research projects.md')
             .then(response => response.text())
             .then(text => {
                 // 使用 marked 库将 Markdown 转换为 HTML
                 const htmlContent = marked.parse(text);
-                // 将转换后的 HTML 内容插入到 research_project-md 元素中
-                document.getElementById('research_project-md').innerHTML = htmlContent;
+                // 将转换后的 HTML 内容插入到 research-projects-md 元素中
+                document.getElementById('research-projects-md').innerHTML = htmlContent;
             })
             .catch(error => {
-                console.error('加载 research project.md 文件出错:', error);
+                console.error('加载 research projects.md 文件出错:', error);
             });
 
         // 加载 home.md 文件内容
